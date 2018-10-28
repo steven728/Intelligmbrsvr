@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.roxa.xava:xava-vertx-base:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/roxa/xava/xava-vertx-base/0.0.1-SNAPSHOT/xava-vertx-base-0.0.1-20181026.010106-42.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/roxa/xava/xava-vertx-base/0.0.1-SNAPSHOT/xava-vertx-base-0.0.1-20181026.010106-42-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/roxa/xava/xava-vertx-base/0.0.1-SNAPSHOT/xava-vertx-base-0.0.1-20181026.010106-42-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

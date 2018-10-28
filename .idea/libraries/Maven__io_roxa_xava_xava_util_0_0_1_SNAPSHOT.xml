@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.roxa.xava:xava-util:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/roxa/xava/xava-util/0.0.1-SNAPSHOT/xava-util-0.0.1-20181025.092451-75.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/roxa/xava/xava-util/0.0.1-SNAPSHOT/xava-util-0.0.1-20181025.092451-75-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/roxa/xava/xava-util/0.0.1-SNAPSHOT/xava-util-0.0.1-20181025.092451-75-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
